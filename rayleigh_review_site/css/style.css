@@ -1,0 +1,5 @@
+body{font-family:Arial,sans-serif;display:flex;margin:0}
+.sidebar{width:240px;background:#0b1f35;color:white;height:100vh;padding:20px;position:fixed}
+.sidebar a{color:white;text-decoration:none}
+main{margin-left:260px;padding:30px}
+section{margin-bottom:60px}
